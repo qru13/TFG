@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚴‍♂️ Optimització d'un Calendari Ciclista</h1>
+  <h1>Optimització d'un Calendari Ciclista</h1>
   <p><strong>Treball de Final de Grau (TFG) - Grau en Estadística (UB-UPC)</strong></p>
 </div>
 
